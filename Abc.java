@@ -1,11 +1,11 @@
 public class Abc
 {
-	public static void main(String args[])
+	public static void main(String arguments[])
 	{		
-		System.out.println("My first line of code");
 		for(int i=1; i<=20; i++)
 		{		
-			System.out.println("HELLO");
+			System.out.println("PI value : "+Math.PI);
 		}
+		System.out.println("THANK YOU");
 	}
 }
